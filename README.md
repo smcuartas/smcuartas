@@ -8,7 +8,7 @@ I love illustrating, MMORPG videogames, music and tattoos. Also I spend my free 
 
 ### 🌎 Find me!
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/Linkedin.jpg)
+![alt text](https://github.com/smcuartas/smcuartas/blob/[branch]/Linkedin.jpg)
 
 
 **[My online resume](https://smcuartas.github.io/resume/)**
