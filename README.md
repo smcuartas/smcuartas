@@ -8,7 +8,8 @@ I love illustrating, MMORPG videogames, music and tattoos. Also I spend my free 
 
 ### 🌎 Find me!
 
-![alt text](https://github.com/smcuartas/smcuartas/blob/main/Linkedin.jpg)
+[![Linkedin Badge](https://github.com/smcuartas/smcuartas/blob/main/Linkedin.jpg)](https://www.linkedin.com/in/santiago-mejia-cuartas/)
+[![Whatsapp Badge](https://github.com/smcuartas/smcuartas/blob/main/Whatsapp.jpg)](https://wa.me/573046016382)
 
 
 **[My online resume](https://smcuartas.github.io/resume/)**
