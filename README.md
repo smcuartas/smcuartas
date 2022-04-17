@@ -1,18 +1,14 @@
-### Hi there 👋
+### 👋🏻 Hello!
 
-<!--
-**smcuartas/smcuartas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about design since I was a little kid. I’m active, responsable and I always keep my eyes on small details. I’ve been working with Wordpress for 3+ years making responsive websites using visual editors like Elementor, WPBakery and Gutemberg. Sometimes, I’ve created shortcodes or I’ve modified little things from templates, but now I’m starting with React JS.
 
-![alt text](https://github.com/[username]/[reponame]/Linkedin.jpg)
+### 🎮 My Hobbies
 
-Here are some ideas to get you started:
+I love illustrating, MMORPG videogames, music and tattoos. Also I spend my free time studying.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌎 Find me!
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/Linkedin.jpg)
+
+
+**[My online resume](https://smcuartas.github.io/resume/)**
