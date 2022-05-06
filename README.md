@@ -4,7 +4,7 @@ I’m passionate about design since I was a little kid. I’m active, responsabl
 
 ### 🎮 My Hobbies
 
-I love illustrating, MMORPG videogames, music and tattoos. Also I spend my free time studying.
+I love illustrating, MMORPG videogames, Studio Ghibli films, music and tattoos. Also I spend my free time studying.
 
 ### 🌎 Find me!
 
