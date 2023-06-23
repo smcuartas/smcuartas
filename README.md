@@ -1,13 +1,12 @@
 ### 👋🏻 Hello!
 
-I’m passionate about design since I was a little kid. I’m active, responsable and I always keep my eyes on small details. I’ve been working with Wordpress for 3+ years making responsive websites using visual editors like Elementor, WPBakery and Gutemberg. Sometimes, I’ve created shortcodes or I’ve modified little things from templates, but now I’m starting with React JS.
+I am a passionate programming professional with 1 year of experience in web application development using technologies like ReactJS, NextJS, TypeScript and Storybook. Also, I have 5 years of experience working with WordPress, which has allowed me to acquire skills in creating and managing websites and online stores. I consider myself a proactive individual with the ability to work in a team. I have an strong passion for continuous learning and improving my skills in the field of web development.
 
 ### 🎮 My Hobbies
 
-I love illustrating, MMORPG videogames, Studio Ghibli films, music and tattoos. Also I spend my free time studying.
+I’m a man who loves illustrating, MMORPG videogames, music, tattoos and challenges. Actually resident in Medellín, Colombia󠁣󠁯. Also I spend my free time studying.
 
 ### 🌎 Find me!
 
 [![Linkedin Badge](https://github.com/smcuartas/smcuartas/blob/main/Linkedin.jpg)](https://www.linkedin.com/in/santiago-mejia-cuartas/)
 [![Whatsapp Badge](https://github.com/smcuartas/smcuartas/blob/main/Whatsapp.jpg)](https://wa.me/573046016382)
-[![Online Resume](https://github.com/smcuartas/smcuartas/blob/main/online-resume.jpg)](https://smcuartas.github.io/resume/)
